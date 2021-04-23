@@ -10,7 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            //content123 
+            //content123
+            //from VS
         }
     }
 }
